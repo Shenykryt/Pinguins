@@ -1,0 +1,40 @@
+body {
+    background-color: #33CCCC;
+}
+
+header {
+    background-color: #009999;
+    padding:2px;
+}
+
+header p {
+    margin:10px;
+}
+
+.hh {
+    font-size: 50px;
+    text-align:center;
+}
+
+img {
+    height:300px;
+    width:500px;
+}
+
+main p {
+    background-color: #009B95;
+    padding:5px;
+    border: 1px solid #009B95;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align:center;
+}
+
+nav a {
+    margin:500px 20px 20px 100px;
+    padding:50px;
+    color:black;
+    font-size: 20px;
+}
